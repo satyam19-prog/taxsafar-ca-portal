@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS taxsafar_db;
-USE taxsafar_db;
-
 CREATE TABLE admins (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
