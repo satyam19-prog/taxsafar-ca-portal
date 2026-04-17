@@ -2,7 +2,7 @@
 
 ### Admin Credentials
 - Email: admin@taxsafar.com
-- Password: Admin@123
+- Password: password
 
 ### Setup
 1. Import `taxsafar.sql` into MySQL
